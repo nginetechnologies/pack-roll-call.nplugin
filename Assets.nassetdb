@@ -1,0 +1,12 @@
+{
+    "947edacf-4895-3a6b-7300-a8a32bcae83c": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Thumbnail/Roll_Call_Thumb.tex.nasset"
+    },
+    "d015043a-09e8-4136-a1f3-ec2c8ac6d209": {
+        "assetTypeGuid": "926268b2-2d45-4c52-87c9-d76815217359",
+        "path": "Package.nplugin",
+        "name": "Roll Call Assets"
+    },
+    "guid": "81513f9d-3c81-b8d9-e5a3-07b9be414d79"
+}
